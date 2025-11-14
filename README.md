@@ -18,44 +18,46 @@ Team participants
 project plan into steps  
 
  1. User Research 
- (Dareen Ahmed 
  
-  -Belal Yaseen) 
+ 1 -Dareen Ahmed 
+ 
+ 2 -Belal Yaseen
 
  2. Empathy Map & Persona 
- (Yousef Samir 
  
- -Farah Hamada)  
+ 1- Yousef Samir 
+ 
+ 2-Farah Hamada
 
 3. Information Architecture (IA) & User Flow
-( Malak Khaled 
+1- Malak Khaled 
 
-- Belal Yaseen ) 
+2- Belal Yaseen 
 
 4. Wireframes & Prototype
-(Yousef Samir 
+1-Yousef Samir 
 
--Dareen Ahmed ) 
+2-Dareen Ahmed 
 
 5. Usability Test 
-(Farah Hamada 
+1- Farah Hamada 
 
--Malak Khaled ) 
+2-Malak Khaled 
 
 6. UI Design (↓) 
 
 1. Design System 
-( Belal Yaseen 
+ 1- Belal Yaseen 
 
- -Yousef samir  
+ 2-Yousef samir  
  
- -Malak Khaled ) 
+ 3-Malak Khaled 
 
 
 3. Visual Design 
-( Dareen Ahmed - 
+ 1-Dareen Ahmed 
 
--Farah Hamada ) 
+-Farah Hamada 
 
 
 
