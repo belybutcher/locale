@@ -17,21 +17,37 @@ Team participants
 
 project plan into steps  
 
- 1. User Research (Dareen Ahmed - Belal Yaseen) 
+ 1. User Research 
+ (Dareen Ahmed 
+  Belal Yaseen) 
 
- 2. Empathy Map & Persona (Yousef Samir- Farah Hamada)  
+ 2. Empathy Map & Persona 
+ (Yousef Samir 
+ Farah Hamada)  
 
-3. Information Architecture (IA) & User Flow ( Malak Khaled - Belal Yaseen) 
+3. Information Architecture (IA) & User Flow
+( Malak Khaled 
+ Belal Yaseen) 
 
-4. Wireframes & Prototype (Yousef Samir - Dareen Ahmed) 
+4. Wireframes & Prototype
+(Yousef Samir 
+Dareen Ahmed) 
 
-5. Usability Test (Farah Hamada - Malak Khaled) 
+5. Usability Test 
+(Farah Hamada 
+Malak Khaled) 
 
 6. UI Design (↓) 
 
-1. Design System ( Belal Yaseen - Yousef samir  - Malak Khaled) 
+1. Design System 
+( Belal Yaseen -
+ Yousef samir  -
+ Malak Khaled) 
 
-2. Visual Design ( Dareen Ahmed -  Farah Hamada) 
+
+3. Visual Design 
+( Dareen Ahmed - 
+Farah Hamada) 
 
 
 
@@ -82,6 +98,7 @@ Presentation PDF
 Upload to GitHub
 ________________________________________
 Roles & Responsibilities
+
 •	Belal Yaseen ( team leader)
 Primary: Competitor Analysis, Colors & Typography, Brochure
 Secondary: Personas, Final Presentation, , Style Guide, GitHub
@@ -89,8 +106,8 @@ Secondary: Personas, Final Presentation, , Style Guide, GitHub
 Malah Khaled 
 Primary: Mood board, Carousel, Flash Cards
 Secondary: Competitor Analysis, Logo, Puzzle
-•	Dareen Ahmed 
 
+•	Dareen Ahmed 
 o	Primary: Personas, Logo, Activity Book
 o	Secondary: Mood board, Poster, Final Presentation, Digital Export
 
