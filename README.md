@@ -67,7 +67,8 @@ ________________________________________
 Project Idea 
 An online shopping cosmetics  App that offers a platform for all local and underground Egyptian brands
 ________________________________________
-Team Members (
+Team Members 
+
 1- Malak Khaled 
 
 2- Yousef Samir
