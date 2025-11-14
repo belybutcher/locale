@@ -108,7 +108,7 @@ ________________________________________
 
 Project Files
 You can find the full project files here:
-https://github.com/belybutcher/locale
+https://www.figma.com/design/Aw2OGPUiQKVW8mbbcFzSX2/Untitled?node-id=0-1&t=71MlUz53jOGfM4uL-1
 ________________________________________
 License
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
