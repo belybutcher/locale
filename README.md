@@ -4,7 +4,16 @@ PRO Idea : An online shopping App that offers a platform for all local and under
 
 Team participants  
 
-1- Malak Khaled   2- Yousef samir   3 - Dareen Ahmed  4-Belal Yaseen 5-Farah Hamada 
+1- Malak Khaled  
+
+2- Yousef samir  
+
+3 - Dareen Ahmed 
+
+4-Belal Yaseen
+
+5-Farah Hamada 
+
 
 project plan into steps  
 
