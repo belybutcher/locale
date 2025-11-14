@@ -19,35 +19,43 @@ project plan into steps
 
  1. User Research 
  (Dareen Ahmed 
-  Belal Yaseen) 
+ 
+  -Belal Yaseen) 
 
  2. Empathy Map & Persona 
  (Yousef Samir 
- Farah Hamada)  
+ 
+ -Farah Hamada)  
 
 3. Information Architecture (IA) & User Flow
 ( Malak Khaled 
- Belal Yaseen) 
+
+- Belal Yaseen ) 
 
 4. Wireframes & Prototype
 (Yousef Samir 
-Dareen Ahmed) 
+
+-Dareen Ahmed ) 
 
 5. Usability Test 
 (Farah Hamada 
-Malak Khaled) 
+
+-Malak Khaled ) 
 
 6. UI Design (↓) 
 
 1. Design System 
-( Belal Yaseen -
- Yousef samir  -
- Malak Khaled) 
+( Belal Yaseen 
+
+ -Yousef samir  
+ 
+ -Malak Khaled ) 
 
 
 3. Visual Design 
 ( Dareen Ahmed - 
-Farah Hamada) 
+
+-Farah Hamada ) 
 
 
 
@@ -59,9 +67,13 @@ An online shopping cosmetics  App that offers a platform for all local and under
 ________________________________________
 Team Members (
 1- Malak Khaled 
+
 2- Yousef Samir
- 3 - Dareen Ahmed
+
+ 3- Dareen Ahmed
+ 
  4-Belal Yaseen
+ 
  5-Farah Hamada
 
 
