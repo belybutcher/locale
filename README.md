@@ -61,6 +61,16 @@ project plan into steps
 
 
 
+
+PROJECT LINK :
+
+
+https://www.figma.com/design/Aw2OGPUiQKVW8mbbcFzSX2/Untitled?node-id=0-1&t=p3zn8s8iHRzUnnx4-1
+
+
+
+
+
 Project Name
 . LOCALE 
 ________________________________________
