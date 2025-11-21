@@ -1,6 +1,6 @@
                       Project Name  " Locale " 
 
-PRO Idea : An online shopping App that offers a platform for all local and underground egyptian brands 
+PRO Idea : An online shopping Cosmetics Website that offers a platform for all local and underground egyptian brands 
 
 Team participants  
 
@@ -66,6 +66,29 @@ PROJECT LINK :
 
 
 https://www.figma.com/design/Aw2OGPUiQKVW8mbbcFzSX2/Untitled?node-id=0-1&t=p3zn8s8iHRzUnnx4-1
+
+
+
+
+
+
+
+
+CASE STUDY LINK :
+
+https://drive.google.com/file/d/1Lh9pm5iQscF_h_mijCHdHYtQmTsbMjEP/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
