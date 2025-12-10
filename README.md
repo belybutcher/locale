@@ -76,8 +76,7 @@ https://www.figma.com/design/Aw2OGPUiQKVW8mbbcFzSX2/Untitled?node-id=0-1&t=p3zn8
 
 CASE STUDY LINK :
 
-https://drive.google.com/file/d/1Lh9pm5iQscF_h_mijCHdHYtQmTsbMjEP/view?usp=sharing
-
+https://drive.google.com/file/d/1HKx5ygQ-toCf37OfolFssvA61YRMMpRS/view?usp=sharing
 
 
 
